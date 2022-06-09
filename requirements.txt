@@ -1,0 +1,2 @@
+#add any project depencenies here
+django>=3.2
